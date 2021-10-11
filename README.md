@@ -1,6 +1,6 @@
 # Analysis and Classification of Anopheles Populations in AG1000-3R dataset using Intergenic SNPs
 Achal Dixit 
-### [Target-Malaria Group](https://targetmalaria.org) in Austin-Burt Lab, Imperial College London
+### [Target-Malaria Group](https://targetmalaria.org) in Burt Lab, Imperial College London
 
 ## Objectives Covered
 * __Exploratory Data Analysis__
