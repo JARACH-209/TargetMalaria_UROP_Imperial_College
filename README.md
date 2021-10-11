@@ -21,4 +21,4 @@ Achal Dixit
 * 4,836,295 ___Intergenic SNPs___ from chromosome arm 3R
 * Phased Haplotype data/biallelic (0 or 1)
 
-[!UMAP_Plot](/plots/UMAP_all_unscaled_jaccard_n15_unsupervised_c.png)
+![UMAP_Plot](/plots/UMAP_all_unscaled_jaccard_n15_unsupervised_c.png)
