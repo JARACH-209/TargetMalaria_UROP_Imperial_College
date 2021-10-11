@@ -3,7 +3,7 @@
 
 ## Objectives Covered
 * __Exploratory Data Analysis__
-  * SNPs Filtering _(Generic classes writting in Python)
+  * SNPs Filtering 
    * Mega Base Pair Selection
    * MAF Filtering
    * LD Pruning
