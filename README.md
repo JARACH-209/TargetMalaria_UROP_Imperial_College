@@ -22,3 +22,4 @@ Achal Dixit
 * Phased Haplotype data/biallelic (0 or 1)
 
 ![UMAP_Plot](/plots/UMAP_all_unscaled_jaccard_n15_unsupervised_c.png)
+<img src=/plots/UMAP_all_unscaled_jaccard_n15_unsupervised_c.png width="450" height="250">
