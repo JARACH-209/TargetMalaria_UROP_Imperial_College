@@ -4,9 +4,9 @@
 ## Objectives Covered
 * __Exploratory Data Analysis__
   * SNPs Filtering 
-   * Mega Base Pair Selection
-   * MAF Filtering
-   * LD Pruning
+    * Mega Base Pair Selection
+    * MAF Filtering
+    * LD Pruning
   * Minor Allele Filtering - Exploring the right MAF threhsold for rare allele filtering while preserving private alleles
   * Unsupervised exploration - PCA and UMAP visualizations for 4.8 Million SNPs and sampples from 16 populations. UMAP hyperparameter tunining for chromosome arm 3R.
 * __Classification of 13 Populations__
