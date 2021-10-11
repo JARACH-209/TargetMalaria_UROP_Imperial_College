@@ -8,7 +8,7 @@
     * MAF Filtering
     * LD Pruning
   * Minor Allele Filtering - Exploring the right MAF threhsold for rare allele filtering while preserving private alleles
-  * Unsupervised exploration - PCA and UMAP visualizations for 4.8 Million SNPs and sampples from 16 populations. UMAP hyperparameter tuning for chromosome arm 3R.
+  * Unsupervised exploration - PCA and UMAP visualizations for 4.8 Million SNPs and samples from 16 populations. UMAP hyperparameter tuning for chromosome arm 3R.
 * __Classification of 13 Populations__
   * Pipeline for population classification using genetic sequences
   * Futher improvement through dimensionality reduction and domain related techniques
