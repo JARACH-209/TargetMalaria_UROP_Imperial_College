@@ -2,12 +2,17 @@
 Achal Dixit 
 ### [Target-Malaria Group](https://targetmalaria.org) in Austin-Burt Lab, Imperial College London
 
-## Objectives
-*• Exploratory Data Analysis: SNPs Filtering Statistics, MAF stats, PCA and UMAP exploration, and UMAP hyperparameter selection on this dataset.
-*• Classification of 13 Populations: LDA, LR, Dimensionality Reduction and Evaluation Comparison
-*• Pairwise analysis and classification of 66 population pairs
-*• Exploring SNP contribution and importance for population differentiation: LR Coefficients, PCA loadings/Singular Value
-*• Generic Python functions to reproduce and automate most of the analyses
+## Objectives Covered
+* • Exploratory Data Analysis
+  * SNPs Filtering Statistics 
+  * Minor Allele Filtering - Exploring the right MAF threhsold for rare allele filtering while preserving private alleles
+  * Unsupervised exploration - PCA and UMAP visualizations for 4.8 Million SNPs and sampples from 16 populations. UMAP hyperparameter tunining for chromosome arm 3R.
+* • Classification of 13 Populations
+  * Pipeline for population classification using genetic sequences
+  * Futher improvement through dimensionality reduction and domain related techniques
+* • Pairwise analysis of 66 population pairs
+* • Exploring SNP contribution and importance for population differentiation
+* • Generic Python functions to reproduce and automate most of the analyses
 
 
 Comments Here : Updating
